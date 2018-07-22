@@ -18,6 +18,9 @@ Mind hunter (det);
 Bates Motel;
 The OA;
 The sinner (det);
+Jimmy (comedy);
+Knights of Sidonia (anime) ??;
+BLAME! (anime) ??;
 
 
 FILMS
@@ -25,8 +28,12 @@ FILMS
 How it ends;
 GODZILLA 1 (anime);
 GODZILLA 2 (anime);
-Cargo;
-TAU;
-ANNIHILATION;
-The ritual;
+Cargo (zombie?);
+TAU (Sci-Fi);
+ANNIHILATION (Sci-Fi/Horror);
+The Ritual (horror);
 Death Note;
+Fury (army);
+Halo 4: Forward Unto Dawn (Sci-Fi);
+Code Name: Geronimo (army);
+They Grey (survival);
