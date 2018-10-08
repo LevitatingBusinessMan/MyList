@@ -2,13 +2,14 @@ SERIES
 -----------------------
 Verder kijken
 Sherlock;
-Kiss me first;
 Z-nation;
 13 Reasons Why;
 Happy (det?);
 Altered Carbon;
 The expanse;
 Doctor Who;
+Kakegurui (anime);
+Final Space (cartoon);
 
 Starten
 Erased (anime);
@@ -18,7 +19,6 @@ Mind hunter (det);
 Bates Motel;
 The OA;
 The sinner (det);
-Jimmy (comedy);
 Knights of Sidonia (anime) ??;
 BLAME! (anime) ??;
 
@@ -29,7 +29,6 @@ How it ends;
 GODZILLA 1 (anime);
 GODZILLA 2 (anime);
 Cargo (zombie?);
-TAU (Sci-Fi);
 ANNIHILATION (Sci-Fi/Horror);
 The Ritual (horror);
 Death Note;
@@ -37,3 +36,6 @@ Fury (army);
 Halo 4: Forward Unto Dawn (Sci-Fi);
 Code Name: Geronimo (army);
 They Grey (survival);
+1922 (Horror);
+DON'T BREATHE (horror);	
+Calibre;
